@@ -1,0 +1,10 @@
+C++ in 100 Seconds|Fireship|165|52000|https://www.youtube.com/watch?v=MNeX4EGtR5Y
+How to unlearn C++|Virbox|171|21000|https://www.youtube.com/watch?v=5uJ8zBCFZjk
+Why I created C++|Bjarne Stroustrup|287|47000|https://www.youtube.com/watch?v=JBjjnqG0BP8
+Modern C++ is wierd|Code Persist|302|5200|https://www.youtube.com/watch?v=Z_ahq2h9Xxg
+C++ Implementations|Bjarne Stroustrup|305|2900|https://www.youtube.com/watch?v=ZQds2aGHwDA
+Can adding 'const' to a pointer help the optimisation?|Delphi|65|9000|https://www.youtube.com/watch?v=-3g55WbJqFU
+Algoritmi care lucreaza cu tablouri bidimensionale|Gabriel Mircea|327|27|https://www.youtube.com/watch?v=imoG2mhXc0g
+Should you learn C++?|LLL|187|4230|https://www.youtube.com/watch?v=q1ZmFc-sqNc&pp=ygUDYysr
+Shared libraries in C/C++|LLL|540|3523|https://www.youtube.com/watch?v=Slfwk28vhws&pp=ygUDYysr
+My journey of 2 years learning C++|VoxelRifts|535|4354|https://www.youtube.com/watch?v=lMvFWKHhVZ0
