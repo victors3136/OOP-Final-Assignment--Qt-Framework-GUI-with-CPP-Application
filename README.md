@@ -8,7 +8,8 @@ Updating
 Adding
 ![image](https://github.com/victors3136/OOP-Final-Assignment--Qt-GUI-with-CPP-Application/assets/115093754/5dbf619e-e940-4ec8-9a0c-cf3fc8a01ce7)
 Input validation
-![image](https://github.com/victors3136/OOP-Final-Assignment--Qt-GUI-with-CPP-Application/assets/115093754/3995f294-0513-46ed-a85b-94ed818b7381)
+![image](https://github.com/victors3136/OOP-Final-Assignment--Qt-GUI-with-CPP-Application/assets/115093754/9bea0b38-9efc-450f-80e5-e8cf2695c980)
+
 # User Mode
 Searching
 ![image](https://github.com/victors3136/OOP-Final-Assignment--Qt-GUI-with-CPP-Application/assets/115093754/7e478749-def3-4269-acec-ef3aa3b5f706)
