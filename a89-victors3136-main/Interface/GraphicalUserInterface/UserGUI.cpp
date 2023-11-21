@@ -108,7 +108,7 @@ void UserGUI::connectSignalsAndSlots() {
         int id = getSelectedIndex();
         if(id == -1)
             return;
-        const std::string& url = manager.getByPresenter("")[id].getLink();
+        const std::string& url = current[id].getLink();
         std::string op = std::string("start ").append(url);
         system(op.c_str());
     });
