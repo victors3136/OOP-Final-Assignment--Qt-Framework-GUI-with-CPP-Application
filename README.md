@@ -4,7 +4,7 @@
 Removing  
 ![image](https://github.com/victors3136/OOP-Final-Assignment--Qt-GUI-with-CPP-Application/assets/115093754/dd306cd7-9af1-43d2-b24e-17e54967e4df)  
 Updating  
-![image](https://github.com/victors3136/OOP-Final-Assignment--Qt-GUI-with-CPP-Application/assets/115093754/3b9a44eb-44b6-4a20-9a21-dd64d69a9e4e)  
+![image](https://github.com/victors3136/OOP-Final-Assignment--Qt-GUI-with-CPP-Application/assets/115093754/7168f3ed-35fd-450e-b1d9-7aa25864eac2)  
 Adding  
 ![image](https://github.com/victors3136/OOP-Final-Assignment--Qt-GUI-with-CPP-Application/assets/115093754/5dbf619e-e940-4ec8-9a0c-cf3fc8a01ce7)  
 Input validation  
@@ -12,7 +12,7 @@ Input validation
 
 # User Mode
 Searching  
-![image](https://github.com/victors3136/OOP-Final-Assignment--Qt-GUI-with-CPP-Application/assets/115093754/7e478749-def3-4269-acec-ef3aa3b5f706)  
+![image](https://github.com/victors3136/OOP-Final-Assignment--Qt-GUI-with-CPP-Application/assets/115093754/660f5ad0-28b6-4641-9332-77ef7f23654a)  
 Inforation Retrieval  
 ![image](https://github.com/victors3136/OOP-Final-Assignment--Qt-GUI-with-CPP-Application/assets/115093754/cb8358ea-a201-4640-8c50-f022ea9e0d89)  
 Liking videos adds them to a special playlist  
